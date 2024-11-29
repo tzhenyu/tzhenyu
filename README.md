@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 - Ex-Universiti Teknologi Malaysia (UTM) student (Foundation Programme)
 - Currently pursuing Bachelor of Data Science (Honours) at Tunku Abdul Rahman University of Management and Technology (TAR UMT)
 
-![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
-## Languages and tools 
+### Setups
+![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/16-GB-0071C5?style=for-the-badge&logoColor=white)
+
 ### Tools
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
