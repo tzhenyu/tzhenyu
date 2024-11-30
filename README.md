@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Tan Zhen Yu
+- Malaysian Chinese, Johor state
 - Previously at Universiti Teknologi Malaysia 
 - Currently at Tunku Abdul Rahman University of Management and Technology
 
