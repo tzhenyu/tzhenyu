@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## Tan Zhen Yu
 - Previously at Universiti Teknologi Malaysia 
 - Currently at Tunku Abdul Rahman University of Management and Technology
-- omw for Bachelor of Data Science (Honours)
 
 ### Setups
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
