@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ## Tan Zhen Yu
 - Malaysian Chinese, Johor state
-- Previously at Universiti Teknologi Malaysia 
-- Currently at Tunku Abdul Rahman University of Management and Technology
+- Malaysia Domestic Car Enthusiast
 
 ### Setups
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
