@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - Malaysian Chinese, Johor state
 - Malaysia Domestic Car Enthusiast
 - Mandarin/English/Malay
+- Data Science Freshman
   
 <h2 align="center">Setups</h2>
 <p align="center">
