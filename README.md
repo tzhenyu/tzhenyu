@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - Malaysian Chinese, Johor state
 - Malaysia Domestic Car Enthusiast
 ---
-<p align="center">
+<h5 align="center">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     <img src="https://img.shields.io/badge/16-GB-0071C5?style=for-the-badge&logoColor=white"/>
-</p>
+</h5>
 <p align="center">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
