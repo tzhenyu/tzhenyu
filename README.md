@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     <img src="https://img.shields.io/badge/16-GB-0071C5?style=for-the-badge&logoColor=white"/>
-    
 </p>
         
 #### Data Science moment
