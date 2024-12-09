@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
   
-<h2 align="center">Setups</h2>
+<h3 align="center">Setups</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
