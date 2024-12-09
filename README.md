@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Tan Zhen Yu
 - Malaysian Chinese, Johor state
 - Malaysia Domestic Car Enthusiast
-![image](https://ibb.co/JsrHrZN)
+![image](https://i.ibb.co/YLfhfg6/Clipboard-Image-2.jpg)
 
 ### Setups
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
