@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # Tan Zhen Yu 陈政宇
 - Malaysian Chinese, Johor state
 - Malaysia Domestic Car Enthusiast
----
+- Mandarin/English/Malay
+  
 <h2 align="center">Setups</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
