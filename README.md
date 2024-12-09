@@ -48,7 +48,3 @@ Here are some ideas to get you started:
 </p>
 
 
-![image](https://i.ibb.co/YLfhfg6/Clipboard-Image-2.jpg)
-
-
-
