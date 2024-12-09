@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - Malaysian Chinese, Johor state
 - Mandarin/English/Malay
-- Data Science Freshman
+- Data Science Freshman at TARUMT
   
 <h2 align="center">Setups</h2>
 <p align="center">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-
+---
 ![image](https://i.ibb.co/YLfhfg6/Clipboard-Image-2.jpg)
 
 
