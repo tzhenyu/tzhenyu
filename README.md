@@ -47,7 +47,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
 
 ![image](https://i.ibb.co/YLfhfg6/Clipboard-Image-2.jpg)
 
