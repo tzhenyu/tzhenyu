@@ -12,21 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
+    <summary>
       <h1>Tan Zhen Yu 陈政宇</h1>
+    </summary>
       <p align="center">
         <a href="https://www.linkedin.com/in/tzhenyu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="discord.com/users/365886341956894720"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
       </p>
-  </ul>
-</div>
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Hi,👋🏻 I'm Anuj</h1>
-    </summary>
   </ul>
 </div>
 
