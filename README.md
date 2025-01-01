@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
 <p align="center">
-    <a href="https://www.linkedin.com/in/tan-zhen-yu-6aa850196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/tzhenyu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="discord.com/users/365886341956894720"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
 
