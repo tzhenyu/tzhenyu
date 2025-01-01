@@ -23,8 +23,7 @@ Here are some ideas to get you started:
       </p>
   </ul>
 </div>
-
-
+<hr>
 - Malaysian Chinese, Johor state
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
