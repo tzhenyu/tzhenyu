@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Tan Zhen Yu 陈政宇</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/tzhenyu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="discord.com/users/365886341956894720"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
 
 - Malaysian Chinese, Johor state
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
-<p align="center">
-    <a href="https://www.linkedin.com/in/tzhenyu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="discord.com/users/365886341956894720"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-</p>
 
 <h3 align="center">Setups</h3>
 <p align="center">
