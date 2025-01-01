@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/tzhenyu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="discord.com/users/365886341956894720"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
----
+<h1 align="center"></h1>
 - Malaysian Chinese, Johor state
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
