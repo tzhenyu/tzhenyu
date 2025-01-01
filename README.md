@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Malaysian Chinese, Johor state
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
-  
+  <a href="https://www.strava.com/athletes/94166049"><img src="badge.svg"></a>
 <h3 align="center">Setups</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
