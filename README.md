@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 - Malaysian Chinese, Johor state
 - Mandarin/English/Malay
 - Data Science Freshman at TARUMT
-  <a href="https://www.strava.com/athletes/94166049"><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/tan-zhen-yu-6aa850196/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+</p>
+
 <h3 align="center">Setups</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
