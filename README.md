@@ -7,8 +7,6 @@
 </p>
 
 
-<p align="center">👦🏻 Malaysian Chinese from Johor state</p>
-<p align="center">🌐 Fluent in Mandarin, English, and Malay</p>
 <p align="center">🎓 Data Science Freshman at TARUMT, Kuala Lumpur Main Campus</p>
 
 
