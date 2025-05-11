@@ -6,10 +6,6 @@
         <a href="discord.com/users/365886341956894720"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-
-<p align="center">🎓 Data Science Freshman at TARUMT, Kuala Lumpur Main Campus</p>
-
-
 <h3 align="center">Setups</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/Gigabyte-G5_KF_2023-E34F26?style=for-the-badge&logo=windows-11&logoColor=white"/>
